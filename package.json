@@ -1,0 +1,24 @@
+{
+  "name": "hubot-dotmoji",
+  "version": "0.0.1",
+  "description": "Display the message using emoji",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utahta/hubot-dotmoji"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "dotmoji"
+  ],
+  "author": "utahta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/utahta/hubot-dotmoji/issues"
+  },
+  "homepage": "https://github.com/utahta/hubot-dotmoji"
+}
